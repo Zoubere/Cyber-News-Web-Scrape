@@ -15,4 +15,4 @@ The web scraper will pull Article links from popular cybersecurity and adjacent 
 
 ## License
 
-See the LICENSE file for license rights and limitations (MIT).
+See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
